@@ -4,9 +4,9 @@
 Es geht darum, ungewöhnliche Transaktionen, Rechnungen zu erkennen und für eine Prüfung zu priorisieren.
 Dafür habe ich mir die Daten von Python erstellen lassen.
 # Definition der Fragestellungen
-- Welche Rechnungen weichen extrem vom normalen Ausgabenmuster ab?
+- Welche Rechnungen oder Tansaktionnen weichen extrem vom normalen Ausgabenmuster ab?
 - Wie hoch ist das finanzielle Gesamtrisiko durch identifizierte Betrugsmuster?
 - Welche Rechnungen enthalten doppelte Positionen oder Referenznummern?
-- Zu welchen Zeiten oder an welchen Wochentagen treten überdurchschnittlich viele verdächtige Buchungen auf?
+- Gibt es Lieferanten mit abweichenden oder wechselnden Bankverbindungen?
 - Welche Lieferanten oder Dienstleistungskategorien weisen die höchste Anomalie-Quote auf
-- Welche Rechnungen müssen von der Revision / Compliance zuerst geprüft werden?
+- Welche Transaktionen müssen von der Revision / Compliance zuerst geprüft werden?
