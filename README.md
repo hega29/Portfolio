@@ -1,5 +1,5 @@
 # Projektauswahl:
-## Betrugs-Risiko- und anomaieerkennung
+## Betrugs-Risiko- und Anomaieerkennung
 ### Projektidee:
 Es geht darum, ungewöhnliche Transaktionen, Rechnungen zu erkennen und für eine Prüfung zu priorisieren.
 # Problemstellung:
